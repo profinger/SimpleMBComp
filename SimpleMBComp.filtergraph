@@ -61,11 +61,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="5" x="0.53" y="0.4052419354838709" uiLastX_Normal="164"
-          uiLastY_Normal="254" uiopen_Normal="0">
+  <FILTER uid="5" x="0.3575" y="0.5564516129032258" uiLastX_Normal="164"
+          uiLastY_Normal="254" uiopen_Normal="1">
     <PLUGIN name="SimpleMBComp" format="VST3" category="Fx" manufacturer="PfrogBot Pluggins"
             version="1.0.0" file="C:\Program Files\Common Files\VST3\SimpleMBComp.vst3"
-            uniqueId="7a7a416" isInstrument="0" fileTime="17d184da0c9" infoUpdateTime="17d187ca71a"
+            uniqueId="7a7a416" isInstrument="0" fileTime="17d18b68fd9" infoUpdateTime="17d18b9cf68"
             numInputs="2" numOutputs="2" isShell="0" uid="e95d188d"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
     <LAYOUT>
@@ -77,11 +77,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="6" x="0.6850000000000001" y="0.2016129032258064" uiLastX_Normal="138"
-          uiLastY_Normal="48" uiopen_Normal="0">
+  <FILTER uid="6" x="0.6850000000000001" y="0.2016129032258064" uiLastX_Normal="870"
+          uiLastY_Normal="74" uiopen_Normal="1">
     <PLUGIN name="AudioFilePlayer" format="VST3" category="Fx" manufacturer="Matkat Music LLC"
             version="1.0.0" file="C:\Program Files\Common Files\VST3\AudioFilePlayer.vst3"
-            uniqueId="79fe81c" isInstrument="0" fileTime="17d1879b2de" infoUpdateTime="17d187ca71a"
+            uniqueId="79fe81c" isInstrument="0" fileTime="17d1879b2de" infoUpdateTime="17d18b9cf68"
             numInputs="2" numOutputs="2" isShell="0" uid="e95d02c7"/>
     <STATE>292.VMjLgrQ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9DyL03BTIISX1UEaho2ZVkUdAAkKAwDUigWRWkEcQ0VTucmUY4BQ1sTQLolShUELhsVRxHlXEQTXqc1QWQTUwHVbQISX1cWQTwVRxDVaIQUVmEkLhIVS5EVc2wFVEUDQUQmdFIVdt3hKt3hKt3hKt3hKtXlTU0DUQAURWoULEYzXqEEUXoWQF4RPDYFTzDzUXkWSG4RPDYmKtnWPt3hKt3hKt3hKJUELPUTPqI1aYcEV5UkQQcVTWgEOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO..</STATE>
     <LAYOUT>
